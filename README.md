@@ -1,6 +1,7 @@
 # ESP8266_Prototype0x01
 A Project Based on ESP8266 Deauther by SpacehuhnTech
 
+This Project is modified for ESP8266 with Built in 0.96 inch OLED
 
 To Install:
 1. Clone this repository
